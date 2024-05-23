@@ -8,3 +8,4 @@ pip install pyplot
 pip install pandas
 pip install opendartreader
 ```
+unittest.mock으로 테스트를 진행하는 branch입니다.
